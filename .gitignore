@@ -1,0 +1,9 @@
+*.pyc
+*.py[cod]
+.DS_Store
+__pycache__/
+*.py[cod]
+*.class
+db.sqlite3
+gatorshvz/settings/*.py
+
